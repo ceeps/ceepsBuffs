@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: ceepsBuffs
+## Author: Ceeps
+## Version: 0.1a
+## Notes: Simple buff replacement addon
+## DefaultState: Enabled
+## LoadOnDemand: 0
+ceepsBuffs.lua
